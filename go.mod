@@ -142,7 +142,7 @@ require (
 	github.com/cloudflare/circl v1.3.7 // indirect
 	github.com/cockroachdb/apd/v2 v2.0.2 // indirect
 	github.com/common-nighthawk/go-figure v0.0.0-20210622060536-734e95fb86be // indirect
-	github.com/containerd/containerd v1.7.15 // indirect
+	github.com/containerd/containerd v1.7.16 // indirect
 	github.com/containerd/log v0.1.0 // indirect
 	github.com/containerd/stargz-snapshotter/estargz v0.15.1 // indirect
 	github.com/containers/libtrust v0.0.0-20230121012942-c1716e8a8d01 // indirect
@@ -181,7 +181,7 @@ require (
 	github.com/fluxcd/pkg/apis/acl v0.1.0 // indirect
 	github.com/fluxcd/pkg/apis/kustomize v1.1.1 // indirect
 	github.com/fluxcd/pkg/sourceignore v0.3.3 // indirect
-	github.com/fluxcd/pkg/ssa v0.38.0 // indirect
+	github.com/fluxcd/pkg/ssa v0.39.0 // indirect
 	github.com/fluxcd/pkg/untar v0.2.0 // indirect
 	github.com/fluxcd/pkg/version v0.2.1 // indirect
 	github.com/fvbommel/sortorder v1.1.0 // indirect
@@ -400,4 +400,4 @@ require (
 	sigs.k8s.io/yaml v1.4.0
 )
 
-replace github.com/open-component-model/ocm v0.8.0 => github.com/dee0sap/ocm 09b9cb2
+replace github.com/open-component-model/ocm v0.8.0 => github.com/dee0sap/ocm v0.0.0-20240501113243-09b9cb29c82c
